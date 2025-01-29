@@ -1,0 +1,1 @@
+# This App takes news by APIs by using Python.
